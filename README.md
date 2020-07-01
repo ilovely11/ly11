@@ -1,1 +1,1 @@
-# ly11
+Hi, this github contains machine learning algorithms (including deep learning) from scratch, some random machine learning and data science projects, and some code related to my research in applied and computational harmonic analysis.
